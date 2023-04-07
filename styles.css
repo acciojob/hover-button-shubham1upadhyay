@@ -1,9 +1,9 @@
-.btn{
+.btn1{
 	background-color: black;
 	color:white;
 	border-radius:5px;
 }
-.btn:hover{
+.btn1:hover{
    background-color:yellow;
 	color:black;
 	border-radius:30px;
